@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         //object creation
         Test encap = new Test();
-
+        //populating the arguements passed
         encap.setName("Lehlohonolo");
         encap.setSurname("Moloi");
         encap.setAge(24);
