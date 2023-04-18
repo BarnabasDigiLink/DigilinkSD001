@@ -7,7 +7,7 @@ public class Main {
         //object creation
         Test encap = new Test();
 
-        encap.setName("Barnabas");
+        encap.setName("Lehlohonolo");
         encap.setSurname("Moloi");
         encap.setAge(24);
         //output
